@@ -1,4 +1,4 @@
-# Frankfurt-School-of-Finance_May2023 (work in progress)
+# Frankfurt-School-of-Finance_May2023
 
 This repo constians the material and addtional information used during the Neo4j session at Frankfurt School of Finance and Management in Frankfurt. Slides presented are in the documents directory.
 
